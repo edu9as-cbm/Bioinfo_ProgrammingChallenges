@@ -60,6 +60,12 @@ This code requires Bioruby to be installed:
 gem install bio
 ```
 
+Also, NCBI-BLAST tool must be installed to load the databases:
+
+```
+sudo apt install ncbi-blast+
+```
+
 ## 8. Usage
 
 First, load the proteome databases (for both *Arabidopsis thaliana* and *Saccharomyces pombe*):

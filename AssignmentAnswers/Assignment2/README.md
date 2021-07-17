@@ -32,7 +32,6 @@ This page tells you the base URL for each database's REST API.  Read the documen
 ## 4. Public files
 - main.rb
 - sample.json
-- collaborators.txt
 
 ## 5. Private files
 - all_networks.json
@@ -41,7 +40,6 @@ This page tells you the base URL for each database's REST API.  Read the documen
 - interaction_networks.rb
 - interpretation_of_the_results.txt
 - new_report.txt
-- sample.json
 
 ## 6. Requirements
 
